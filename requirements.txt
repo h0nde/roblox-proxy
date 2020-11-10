@@ -1,0 +1,4 @@
+mitmproxy
+flask
+requests
+bs4
