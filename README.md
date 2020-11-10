@@ -13,10 +13,7 @@ This version is lazily thrown together for demo. purposes, expect a more efficie
 # Setup
 ```bash
 pip install -U git+https://github.com/h0nde/rockblox.git
-pip install mitmproxy
-pip install flask
-pip install requests
-pip install bs4
+pip install -r requirements.txt
 ```
 
 # Usage
